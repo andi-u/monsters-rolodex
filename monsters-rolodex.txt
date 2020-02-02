@@ -1,0 +1,63 @@
+Octavia@Tavi MINGW64 /d/Andi/Cursuri/CompleteReactDeveloper2020
+$ npx create-react-app monsters-rolodex
+npx: installed 91 in 46.622s
+
+Creating a new React app in D:\Andi\Cursuri\CompleteReactDeveloper2020\monsters-rolodex.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts...
+
+yarn add v1.19.1
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+info fsevents@1.2.9: The platform "win32" is incompatible with this module.
+info "fsevents@1.2.9" is an optional dependency and failed compatibility check. Excluding it from installation.
+info fsevents@2.0.7: The platform "win32" is incompatible with this module.
+info "fsevents@2.0.7" is an optional dependency and failed compatibility check. Excluding it from installation.
+[3/4] Linking dependencies...
+warning "react-scripts > @typescript-eslint/eslint-plugin > tsutils@3.17.1" has unmet peer dependency "typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >=
+3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta".
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 7 new dependencies.
+info Direct dependencies
++- react-dom@16.12.0
++- react-scripts@3.2.0
++- react@16.12.0
+info All dependencies
++- react-app-polyfill@1.0.4
++- react-dev-utils@9.1.0
++- react-dom@16.12.0
++- react-error-overlay@6.0.3
++- react-scripts@3.2.0
++- react@16.12.0
++- scheduler@0.18.0
+Done in 256.85s.
+
+Initialized a git repository.
+
+Success! Created monsters-rolodex at D:\Andi\Cursuri\CompleteReactDeveloper2020\monsters-rolodex
+Inside that directory, you can run several commands:
+
+  yarn start
+    Starts the development server.
+
+  yarn build
+    Bundles the app into static files for production.
+
+  yarn test
+    Starts the test runner.
+
+  yarn eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd monsters-rolodex
+  yarn start
+
+Happy hacking!
+
+Octavia@Tavi MINGW64 /d/Andi/Cursuri/CompleteReactDeveloper2020
+$
